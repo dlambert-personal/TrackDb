@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [driver] (Schema)
+       [event] (Schema)
+       [result] (Schema)
+       [track] (Schema)
+       [track].[Track] (Table)
+       [track].[Configuration] (Table)
+       [dbo].[Event] (Table)
+       [dbo].[Session] (Table)
+
+** Supporting actions

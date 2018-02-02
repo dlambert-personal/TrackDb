@@ -1,0 +1,11 @@
+C:\Work\trackdb\trackapi\TrackApi\bin\Debug\netcoreapp2.0\TrackApi.deps.json
+C:\Work\trackdb\trackapi\TrackApi\bin\Debug\netcoreapp2.0\TrackApi.runtimeconfig.json
+C:\Work\trackdb\trackapi\TrackApi\bin\Debug\netcoreapp2.0\TrackApi.runtimeconfig.dev.json
+C:\Work\trackdb\trackapi\TrackApi\bin\Debug\netcoreapp2.0\TrackApi.dll
+C:\Work\trackdb\trackapi\TrackApi\bin\Debug\netcoreapp2.0\TrackApi.pdb
+C:\Work\trackdb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.csprojResolveAssemblyReference.cache
+C:\Work\trackdb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.csproj.CoreCompileInputs.cache
+C:\Work\trackdb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.AssemblyInfoInputs.cache
+C:\Work\trackdb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.AssemblyInfo.cs
+C:\Work\trackdb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.dll
+C:\Work\trackdb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.pdb
