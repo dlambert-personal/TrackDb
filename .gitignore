@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/trackapi/TrackApi/bin/Debug/netcoreapp2.0/TrackApi.deps.json
