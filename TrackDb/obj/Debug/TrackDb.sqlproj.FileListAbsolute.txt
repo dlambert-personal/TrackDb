@@ -3,3 +3,8 @@ C:\Work\trackdb\TrackDb\bin\Debug\TrackDb.dll
 C:\Work\trackdb\TrackDb\bin\Debug\TrackDb.pdb
 C:\Work\trackdb\TrackDb\obj\Debug\TrackDb.dll
 C:\Work\trackdb\TrackDb\obj\Debug\TrackDb.pdb
+D:\work\TrackDb\TrackDb\bin\Debug\TrackDb.dacpac
+D:\work\TrackDb\TrackDb\bin\Debug\TrackDb.dll
+D:\work\TrackDb\TrackDb\bin\Debug\TrackDb.pdb
+D:\work\TrackDb\TrackDb\obj\Debug\TrackDb.dll
+D:\work\TrackDb\TrackDb\obj\Debug\TrackDb.pdb

@@ -9,3 +9,14 @@ C:\Work\trackdb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.AssemblyInfoI
 C:\Work\trackdb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.AssemblyInfo.cs
 C:\Work\trackdb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.dll
 C:\Work\trackdb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.pdb
+D:\work\TrackDb\trackapi\TrackApi\bin\Debug\netcoreapp2.0\TrackApi.deps.json
+D:\work\TrackDb\trackapi\TrackApi\bin\Debug\netcoreapp2.0\TrackApi.runtimeconfig.json
+D:\work\TrackDb\trackapi\TrackApi\bin\Debug\netcoreapp2.0\TrackApi.runtimeconfig.dev.json
+D:\work\TrackDb\trackapi\TrackApi\bin\Debug\netcoreapp2.0\TrackApi.dll
+D:\work\TrackDb\trackapi\TrackApi\bin\Debug\netcoreapp2.0\TrackApi.pdb
+D:\work\TrackDb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.csprojResolveAssemblyReference.cache
+D:\work\TrackDb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.csproj.CoreCompileInputs.cache
+D:\work\TrackDb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.AssemblyInfoInputs.cache
+D:\work\TrackDb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.AssemblyInfo.cs
+D:\work\TrackDb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.dll
+D:\work\TrackDb\trackapi\TrackApi\obj\Debug\netcoreapp2.0\TrackApi.pdb

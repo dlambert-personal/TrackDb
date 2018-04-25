@@ -15,7 +15,7 @@ using Microsoft.EntityFrameworkCore;
 namespace TrackApi
 {
     public class Startup
-    {
+    {   
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -38,6 +38,8 @@ namespace TrackApi
                 c.SwaggerDoc("v1", new Info { Title = "TrackDb Api", Version = "v1" });
             });
 
+            // enable CORS
+            services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -48,6 +50,11 @@ namespace TrackApi
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors(
+                //options => options.WithOrigins("http://example.com").AllowAnyMethod()
+                options => options.AllowAnyOrigin().AllowAnyMethod()
+            );
 
             app.UseMvc();
 
