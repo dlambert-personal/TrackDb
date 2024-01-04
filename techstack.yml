@@ -1,7 +1,8 @@
 repo_name: dlambert-personal/TrackDb
 report_id: 53747bef3aca2ebcf51004c893297c35
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T18:09:25+00:00'
+timestamp: '2024-01-04T15:05:57+00:00'
 requested_by: dlambert-personal
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/dlambert-personal/TrackDb
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -25,7 +27,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
-  detection_source: TrackDb/track/track.schema.sql
+  detection_source_url: https://github.com/dlambert-personal/TrackDb/blob/master/TrackDb/bin/Debug/TrackDb.publish.sql
+  detection_source: TrackDb/bin/Debug/TrackDb.publish.sql
   last_updated_by: David Lambert
   last_updated_on: 2018-02-02 01:42:34.000000000 Z
 - name: ".NET"
@@ -38,6 +41,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/dlambert-personal/TrackDb/blob/master/trackapi/TrackApi/TrackApi.csproj
   detection_source: trackapi/TrackApi/TrackApi.csproj
   last_updated_by: David Lambert
   last_updated_on: 2017-12-20 03:49:07.000000000 Z
@@ -52,7 +56,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: trackapi/TrackApi/TrackApi.csproj
+  detection_source_url: https://github.com/dlambert-personal/TrackDb/blob/master/trackapi/TrackApi/TrackApi.csproj
   detection_source: trackapi/TrackApi/TrackApi.csproj
   last_updated_by: David Lambert
   last_updated_on: 2018-02-02 01:42:34.000000000 Z
@@ -67,7 +71,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: trackapi/TrackApi/obj/project.assets.json
+  detection_source_url: https://github.com/dlambert-personal/TrackDb/blob/master/trackapi/TrackApi/obj/project.assets.json
   detection_source: trackapi/TrackApi/TrackApi.csproj
   last_updated_by: David Lambert
   last_updated_on: 2018-02-02 01:42:34.000000000 Z
@@ -80,7 +84,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1027/sql_server.png
-  detection_source_url: TrackDb/TrackDb.sqlproj
+  detection_source_url: https://github.com/dlambert-personal/TrackDb/blob/master/TrackDb/TrackDb.sqlproj
   detection_source: TrackDb/TrackDb.sqlproj
   last_updated_by: David Lambert
   last_updated_on: 2018-02-02 01:42:34.000000000 Z
@@ -92,6 +96,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dlambert-personal/TrackDb
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -101,6 +106,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/dlambert-personal/TrackDb/blob/master/trackapi/TrackApi/TrackApi.csproj
   detection_source: trackapi/TrackApi/TrackApi.csproj
   last_updated_by: David Lambert
   last_updated_on: 2017-12-20 03:49:07.000000000 Z
@@ -113,6 +119,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/dlambert-personal/TrackDb/blob/master/trackapi/TrackApi.sln
   detection_source: trackapi/TrackApi.sln
   last_updated_by: David Lambert
   last_updated_on: 2017-12-20 03:49:07.000000000 Z
@@ -126,7 +133,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13477/default_eb78542773998d1500f13778aa04738ef49376bd.png
-  detection_source_url: trackapi/TrackApi/obj/project.assets.json
+  detection_source_url: https://github.com/dlambert-personal/TrackDb/blob/master/trackapi/TrackApi/obj/project.assets.json
   detection_source: trackapi/TrackApi/TrackApi.csproj
   last_updated_by: David Lambert
   last_updated_on: 2018-02-02 01:42:34.000000000 Z
@@ -140,7 +147,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13650/default_8262e69d511886f07f1af08ca996ce9684bb574b.png
-  detection_source_url: trackapi/TrackApi/obj/project.assets.json
+  detection_source_url: https://github.com/dlambert-personal/TrackDb/blob/master/trackapi/TrackApi/obj/project.assets.json
   detection_source: trackapi/TrackApi/TrackApi.csproj
   last_updated_by: David Lambert
   last_updated_on: 2018-02-02 01:42:34.000000000 Z
@@ -154,7 +161,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: trackapi/TrackApi/obj/project.assets.json
+  detection_source_url: https://github.com/dlambert-personal/TrackDb/blob/master/trackapi/TrackApi/obj/project.assets.json
   detection_source: trackapi/TrackApi/TrackApi.csproj
   last_updated_by: David Lambert
   last_updated_on: 2018-02-02 01:42:34.000000000 Z
